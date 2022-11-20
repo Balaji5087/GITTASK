@@ -18,14 +18,19 @@ public class GreensTech {
 		System.out.println("greensAnnaNagar");
 	}
 	
+private void greensVelacherr() {
+	System.out.println("greensVelacherry");
 	
-	private void greensVelacherr() {
-		System.out.println("greensVelacherry");
-		
-	}
-	private void greensAnnaNaga() {
+}
+private void greensAnnaNaga() {
+	System.out.println("greensAnnaNagar");
+}
+
+private void greensAnna() {
 		System.out.println("greensAnnaNagar");
 	}
+	
+	
 	
 	public static void main(String[] args) {
 		GreensTech s=new GreensTech();
