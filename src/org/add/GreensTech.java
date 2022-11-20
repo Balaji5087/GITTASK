@@ -17,6 +17,16 @@ public class GreensTech {
 	private void greensAnnaNagar() {
 		System.out.println("greensAnnaNagar");
 	}
+	
+	
+	private void greensVelacherr() {
+		System.out.println("greensVelacherry");
+		
+	}
+	private void greensAnnaNaga() {
+		System.out.println("greensAnnaNagar");
+	}
+	
 	public static void main(String[] args) {
 		GreensTech s=new GreensTech();
 		s.greensOmr();
@@ -25,5 +35,9 @@ public class GreensTech {
 		s.greensVelacherry();
 		s.greensAnnaNagar();
 	}
+	
+	
+	
+	
 
 }
