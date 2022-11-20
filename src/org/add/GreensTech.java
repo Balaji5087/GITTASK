@@ -17,6 +17,10 @@ public class GreensTech {
 	private void greensAnnaNagar() {
 		System.out.println("greensAnnaNagar");
 	}
+	
+	private void greensAnna() {
+		System.out.println("greensAnnaNagar");
+	}
 	public static void main(String[] args) {
 		GreensTech s=new GreensTech();
 		s.greensOmr();
